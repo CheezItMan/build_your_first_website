@@ -14,7 +14,7 @@ Now we will use the skills you've learned to build pages of an online book revie
 ## Wave 1 - Creating Semantic HTML
 ### The Online Book Review Site
 
-![Site Layout](images/layout.png "Site Layout")
+![Site Layout](images/layout.png "Site Layout" =250x)
 
 In this exercise you will create the HTML to go along with content for 3 pages of HTML.  You will structure the content given in the content folder with semantic html tags providing meaning to the content.  
 
