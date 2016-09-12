@@ -45,8 +45,9 @@ The page will include:
 
 -  A Picture of the site maintainer, you can select a picture or use the goofy picture provided.
 -  A statement welcoming feedback on the site via e-mail, twitter or facebook.
+-  A list of methods to contact the site maintainer via email, Twitter and Facebook.  
 
-When you finish review the site with another student explaining your choices in terms of tags and sectioning of the pages.  Make adjustments as needed.  
+When you finish review the site with another student at your table explaining your choices in terms of tags and sectioning of the pages.  Make adjustments where it seems appropriate.  
 
 ## Wave 2 - Adding CSS
 
@@ -66,9 +67,12 @@ Page Specific Styling:
 -  `index.html` 
 	-  use CSS styling to hide the bullet-points of the unordered list containing the book images.
 	-  use CSS styling to make all the images the same height
--  Book Review Page
-	-  The __Eloquent Ruby__ book image  
+-  `eloquentRuby.html`
+	-  The __Eloquent Ruby__ book image should be left-aligned with the details about the book to the right of it.
+-  `contact.html`
+	-  With a the message about contacting the site maintainer to the right of it.  
 
+When you are finished review your changes with your tablemate.  
 
 ## Extensions
 -  Create another page for a book you have found useful and link it into the navigation of the site.  
