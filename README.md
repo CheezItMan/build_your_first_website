@@ -1,6 +1,6 @@
 # Building Your First Website
 
-Now we will use the skills you've learned to build pages of an online book review website. 
+Now we will use the skills you've learned to build pages and/or website of an online book review. 
 
 ##  Learning Goals:
 
